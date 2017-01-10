@@ -1,6 +1,6 @@
 # docker-for-mac.plugin.zsh
 
-Zsh integration for [Docker for Mac](https://github.com/docker/for-mac).
+Zsh integration for [Docker for Mac](https://github.com/docker/for-mac). Automatically loads the zsh completions bundled in Docker.app into your zsh environment.
 
 ## Installation
 
